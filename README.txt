@@ -20,7 +20,7 @@ Description:
 
 Installation Methods 
 	#1 Easy
-	
+	install with the code '1216029285'
 
 	#2 Manual
 	Download the latest version of PangolinAnkiTTS.
