@@ -1,5 +1,5 @@
 PangolinAnkiTTS
-Created by Pangolin-with-a-bow on GitHub { https://github.com/Pangolin-with-a-pink-bow }. 
+Created by Pangolin-with-a-pink-bow on GitHub { https://github.com/Pangolin-with-a-pink-bow }. 
 	If you modify this add-on, you must keep this credit intact.
 
 
